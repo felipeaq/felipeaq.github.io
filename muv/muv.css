@@ -1,0 +1,17 @@
+.muv-color{
+
+    color: #761f87;
+}
+
+.muv-backgroud-color{
+    background-color: #761f87;
+    
+}
+
+.muv-contrast{
+    color: white;
+}
+html, body {
+    height: 100%;
+}
+
